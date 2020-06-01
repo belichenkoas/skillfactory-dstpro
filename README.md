@@ -1,1 +1,2 @@
-# skillfactory-dstpro
+# Курс Data Scientist Pro
+- module_0 (Игра: угадывает число, за наименьшее число попыток)
