@@ -41,3 +41,7 @@
 - module_15 [**Проект: Обработка временных рядов**](https://github.com/Lyobel/skillfactory-dstpro/tree/master/module_15)
 
   *Различные варианты прогнозирования временных рядов*
+
+- module_18 [**Проект: Рекомендательные системы**](https://github.com/Lyobel/skillfactory-dstpro/tree/master/module_18)
+
+  *Рекомендательная система для аптек*
