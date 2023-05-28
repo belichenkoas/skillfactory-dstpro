@@ -45,3 +45,7 @@
 - module_18 [**Проект: Рекомендательные системы**](https://github.com/Lyobel/skillfactory-dstpro/tree/master/module_18)
 
   *Рекомендательная система для аптек*
+---
+- module_19 [**Проект: Детектирование аномалий**](https://github.com/Lyobel/skillfactory-dstpro/tree/master/module_19)
+
+  *Оценка влияния рекламы чая «Ахмад» на его продажи*
