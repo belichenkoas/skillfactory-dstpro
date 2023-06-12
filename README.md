@@ -55,3 +55,7 @@
 - [**Проект: Ядерные функции**](https://github.com/Lyobel/skillfactory-dstpro/tree/master/module_21)
 
   *Решение задачи классификации (определение качества вина) с использованием SVM*
+---
+- [**Проект: Uplift-моделирование**](https://github.com/Lyobel/skillfactory-dstpro/tree/master/module_22)
+
+  *Оценка аплифт-эффекта от рекламных предложений*
