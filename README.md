@@ -59,3 +59,7 @@
 - [**Проект: Uplift-моделирование**](https://github.com/Lyobel/skillfactory-dstpro/tree/master/module_22)
 
   *Оценка аплифт-эффекта от рекламных предложений*
+---
+- [**Проект: A/B-тестирование**](https://github.com/Lyobel/skillfactory-dstpro/tree/master/module_25)
+
+  *Анализ A/A/B-тестирования от одного известного маркетплейса*
