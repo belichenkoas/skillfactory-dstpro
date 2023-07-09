@@ -63,3 +63,7 @@
 - [**Проект: A/B-тестирование**](https://github.com/Lyobel/skillfactory-dstpro/tree/master/module_25)
 
   *Анализ A/A/B-тестирования от одного известного маркетплейса*
+---
+- [**Проект: Мониторинг и управление качеством моделей**](https://github.com/Lyobel/skillfactory-dstpro/tree/master/module_28)
+
+  *Реализация мониторинга модели с помощью Prometheus и Grafana*
