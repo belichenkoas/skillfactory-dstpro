@@ -1,4 +1,4 @@
-*/.ipynb_checkpoints
-module_06/workspace
-module_14/data
-module_14/storage
+projects/*/.ipynb_checkpoints
+projects/module_06/workspace
+projects/module_14/data
+projects/module_14/storage
